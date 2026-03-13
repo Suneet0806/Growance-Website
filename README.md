@@ -23,6 +23,6 @@ College students often need reliable ways to trade used items within their commu
 - ✨ HTML/CSS for the landing page and prototype  
 - 🔧 Lightweight and easy to extend for full stack development
 
-## 📁 Repository Structure
+
 
 
